@@ -13,8 +13,8 @@ body, html {
 }
 
 #soundButton {
-    width: 150px; /* Ширина кнопки */
-    height: 150px; /* Высота кнопки */
+    width: 300px; /* Ширина кнопки */
+    height: 300px; /* Высота кнопки */
     border-radius: 50%; /* Делаем кнопку круглой */
     font-size: 18px;
     cursor: pointer;
